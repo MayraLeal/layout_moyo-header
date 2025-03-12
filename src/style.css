@@ -31,11 +31,12 @@ body {
   padding: 0;
   margin: 0;
   font-size: 12px;
+  line-height: 60px;
 }
 
 .nav_list a {
   display: block;
-  line-height: 60px;
+  height: auto;
   text-decoration: none;
   color: black;
   position: relative;
